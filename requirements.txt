@@ -1,4 +1,4 @@
-streamlip
+streamlit
 pandas
 openpyxl
 reportlab
