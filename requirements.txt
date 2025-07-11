@@ -1,0 +1,4 @@
+streamlip
+pandas
+openpyxl
+reportlab
